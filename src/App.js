@@ -4,7 +4,7 @@ const App = () => {
   return (
     <div className="App">
       <div classname="calc-wrapper">
-        <h1>Calculator</h1>
+        <h1>Calculators</h1>
       </div>
     </div>
   );
